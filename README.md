@@ -15,3 +15,6 @@ Refactoring code is great advantages; however it also has its disadvantages. Alt
 
 ### Pros and Cons Applied to Refactoring the Original VBA Script
 The number one pro that applied to my refactored script was the faster programming time. As mentioned in the original script, it took about 0.496 seconds to run 2017 data and about 0.484 seconds to run 2018 data. After refactoring my script, it now takes about 0.195 seconds to run 2017 data and about 0.218 seconds to run 2018 data. Attached below, you will find a screenshot of the run times for the new script for each year. In second place, refactoring my code did create a more organized and clearer script. I did not see any cons applied to my refactored code which I think it's due to the outline of the refactored code being provided. 
+
+![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.png)
